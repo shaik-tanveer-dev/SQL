@@ -3,7 +3,7 @@ CREATE DATABASE SCHOOL;
 
 
 
--- selexting database
+-- selecting database
 USE SCHOOL;
 
 
