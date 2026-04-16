@@ -168,4 +168,3 @@ VALUES
 (4,2,'How are you?');
 
 select * from messages;
-
